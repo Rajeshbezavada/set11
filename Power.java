@@ -24,6 +24,6 @@ class Power
      result=result*n;
  	   }	    
      }
-    System.out.println(n+"^"+k+"="+result); 
+    System.out.println(result); 
 	}
 } 
